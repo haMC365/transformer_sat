@@ -1,0 +1,5 @@
+- [Attention is All You Need](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
+- [[1] Layer Normalization](https://www.cs.utoronto.ca/~hinton/absps/LayerNormalization.pdf)
+- [[2] Neural machine translation by jointly learning to align and translate](https://arxiv.org/pdf/1409.0473)
+- [[7] Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling](https://github.com/ethanhe42/Natural-Language-Process/blob/master/Empirical%20Evaluation%20of%20Gated%20Recurrent%20Neural%20Networks%20on%20Sequence%20Modeling.pdf)
+- [[12] Long Short Term Memory](https://www.bioinf.jku.at/publications/older/2604.pdf)
